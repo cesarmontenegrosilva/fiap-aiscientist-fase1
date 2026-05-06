@@ -1,7 +1,7 @@
 ## Links de entrega
 
-- **Link do repositório GitHub:** https://github.com/cesarmontenegrosilva/fiap-aiscientist-fase1.git)
-- **Link do vídeo executivo (até 5 min):** [INSERIR_LINK_DO_VIDEO_AQUI]
+- **Link do repositório GitHub:** https://github.com/cesarmontenegrosilva/fiap-aiscientist-fase1.git
+- **Link do vídeo executivo (até 5 min):** https://youtu.be/xEhXqaZdAx0
 
 # NPS Preditivo — Fase 1
 
